@@ -313,6 +313,15 @@
     margin: 5px;
 }
 
+.card-center-content-top{
+    font-family: 'Playball', cursive;
+    font-size: 16px;
+    color: #081938;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+
 .card-center-content-name{
     position: relative;
     font-family: 'Great Vibes', cursive;
